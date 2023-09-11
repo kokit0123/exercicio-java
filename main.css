@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+form {
+    margin-top: 50px;
+}
+
+input, label {
+    margin-bottom: 10px;
+}
+
+#mensagem {
+    margin-top: 20px;
+    font-weight: bold;
+}
